@@ -39,7 +39,7 @@ The `helm` directory holds helm charts for deploying applications on Kubernetes.
 📈 **The journey covered everything from setting up tools to deploying demo java app, ensuring data persistence, and implementing CI/CD pipelines.**
 
 ## Getting Started
-To get started with this project, refer to our [comprehensive guide](https://medium.com/@deepakkr35/building-a-devops-ci-cd-pipeline-locally-github-jenkins-maven-sonarqube-docker-dockerhub-ba5cf7d58074) that walks you through detailed steps.
+To get started with this project, refer to our [comprehensive guide](https://github.com/abdelbaki-bouzaienne/devops-demo-project/blob/main/project-devops2025.pdf) that walks you through detailed steps.
 
 ## Contributing
 We welcome contributions! If you have ideas for enhancements or find any issues, please open a pull request or file an issue.
